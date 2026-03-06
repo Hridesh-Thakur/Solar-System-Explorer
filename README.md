@@ -17,10 +17,10 @@ Crafted with ❤️ by **Hridesh Thakur**.
 
 ---
 
-## Explore Now
-If you want to explore this world, click the link below:
 
-[🚀 Explore](https://solar-system-explorer-pied.vercel.app/)
+<div align="center">
+
+[![Explore Now](https://img.shields.io/badge/🚀%20Play%20Now-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://solar-system-explorer-pied.vercel.app/)
 
 
 
