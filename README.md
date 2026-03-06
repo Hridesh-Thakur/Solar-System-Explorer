@@ -27,4 +27,4 @@ Crafted with ❤️ by **Hridesh Thakur**.
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hridesh-Thakur/solar-explorer.git
+   git clone https://github.com/Hridesh-Thakur/Solar-System-Explorer.git
