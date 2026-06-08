@@ -1,4 +1,4 @@
-# 🌌 Solar Explorer        
+# 🌌 Solar Explorer            
 
 An interactive **3D Solar System Explorer** that lets you discover planets with beautiful visuals and smooth transitions.  
 Crafted with ❤️ by **Hridesh Thakur**.
