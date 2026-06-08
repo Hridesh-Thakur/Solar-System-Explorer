@@ -5,7 +5,7 @@ Crafted with ❤️ by **Hridesh Thakur**.
 
 ![Solar Explorer Preview](./image.png)  
 
-   
+      
 ---
 
 ## ✨ Features
