@@ -9,11 +9,11 @@ Crafted with ❤️ by **Hridesh Thakur**.
 ---
 
 ## ✨ Features
-- 🌍 Explore all major planets (and Pluto 😉)
-- 🪐 Smooth animations & transitions
-- 📖 Planet info with distance from the Sun
-- 🎨 Modern and aesthetic UI
-- ⚡ Built with HTML, CSS, and JavaScript
+- Explore all major planets (and Pluto 😉)
+- Smooth animations & transitions
+- Planet info with distance from the Sun
+- Modern and aesthetic UI
+- Built with HTML, CSS, and JavaScript
 
 ---
 
